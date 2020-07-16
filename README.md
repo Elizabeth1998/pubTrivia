@@ -7,13 +7,17 @@ of Pub Trivia with React, TypeScript, and the Open Trivia Database API. The foll
 
 
 ##Installation
+
 Ensure that you have React installed
 Clone this repo
 Npm install
 
 ##Starting the application 
+
 Start the application with 
   '''bash
     npm start
     '''
 
+##Have Fun!! 
+![](name-of-giphy.gif)
