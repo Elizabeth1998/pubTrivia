@@ -19,5 +19,5 @@ Start the application with
     npm start
     '''
 
-##Have Fun!! 
+
 ![](gatsby.gif)
