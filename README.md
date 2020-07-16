@@ -20,4 +20,4 @@ Start the application with
     '''
 
 ##Have Fun!! 
-![](name-of-giphy.gif)
+![](gatsby.gif)
